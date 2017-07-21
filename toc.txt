@@ -1,11 +1,8 @@
-The collection of reference in the course "Compendium of Chinese Modern History" in Chinese universities.
-
-《中国近现代史纲要》（2015年修订版）阅读文献汇总。
-
-整理中。。
-
-# 目录
-
+* [.DS_St](.DS_Store)
+* [.gitign](.gitignore)
+* [mk_toc](mk_toc.py)
+* [README](README.md)
+* [toc.](toc.txt)
 * [《民报》发刊词](《民报》发刊词.md)
 * [上清帝第二书](上清帝第二书.md)
 * [中华民国临时约法](中华民国临时约法.md)
@@ -29,4 +26,3 @@ The collection of reference in the course "Compendium of Chinese Modern History"
 * [革命军](革命军.md)
 * [驳康有为论革命书](驳康有为论革命书.md)
 * [高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——在中国共产党第十五次全国代表大会上的报告](高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——在中国共产党第十五次全国代表大会上的报告.md)
-
