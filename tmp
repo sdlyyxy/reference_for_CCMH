@@ -1,12 +1,3 @@
-The collection of reference in the course "Compendium of Chinese Modern History" in Chinese universities.
-
-《中国近现代史纲要》（2015年修订版）阅读文献汇总。
-
-实在太多、格式太乱了，我又没有什么整理历史文献的经验，正在整理中..
-
-# 目录
-
-
 * [.gitign](.gitignore)
 * [mk_toc](mk_toc.py)
 * [README](README.md)
